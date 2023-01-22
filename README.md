@@ -3,4 +3,4 @@
 
 Autotest example for ERP project using Java+Selenide for autotests and Allure for report generation.
 
-Автотесты для ERP проекта, для создания автотестов используется Java+Selenide, после прохождения тестов создаётся отчёт при помощи Allure reports.
+Автотесты ERP проекта, для создания автотестов используется Java+Selenide, после прохождения тестов создаётся отчёт при помощи Allure reports.
