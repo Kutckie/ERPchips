@@ -4,7 +4,7 @@
 
 !/main/resources/selenide1.gif
 
-<img src='/main/resources/selenide1.gif'>
+<img src='./main/resources/selenide1.gif'>
 
 
 
