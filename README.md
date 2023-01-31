@@ -1,11 +1,6 @@
 # ERPchips-Test-Framework-Allure-report
 
-![selenide1](https://user-images.githubusercontent.com/40362180/214850904-af93337c-d9f6-47c4-9a20-bd5ac6098323.gif)
-
-!/main/resources/selenide1.gif
-
-<img src='./main/resources/selenide1.gif'>
-
+![sRZUMCS1A5](https://user-images.githubusercontent.com/40362180/215679567-4a47962c-f159-498f-b5a9-e7269296fdc7.gif)
 
 
 Autotest example for ERP project using Java+Selenide for autotests and Allure for report generation.
